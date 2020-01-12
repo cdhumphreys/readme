@@ -19,4 +19,14 @@
 
 [![Generic badge](https://img.shields.io/badge/vuejs-learning-blue?logo=vue.js&style=for-the-badge)]()
 
+
+---
+
+## History
+- Studied Physics at the University of St. Andrews<br>[![Generic badge](https://img.shields.io/badge/B.Sc._Physics-2.1-brightgreen.svg)](https://shields.io/)
+- Opera Mediaworks<br>[![Generic badge](https://img.shields.io/badge/Rich_Media_Tester-August_2015_--_June_2016-blue)]()
+- Opera Mediaworks<br>[![Generic badge](https://img.shields.io/badge/Junior_Software_Developer-June_2016_--_October_2016-blue)]()
+- Collective UK<br>[![Generic badge](https://img.shields.io/badge/Rich_Media_Developer-October_2016_--_December_2017-blue)]()
+- Quotevine Limited<br>[![Generic badge](https://img.shields.io/badge/Web_Developer-December_2017_--_Current-orange)]()
+
 ---
