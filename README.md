@@ -20,7 +20,6 @@
 [![Generic badge](https://img.shields.io/badge/vuejs-learning-blue?logo=vue.js&style=for-the-badge)]()
 
 
----
 
 ## Education :man_scientist:
 
@@ -29,7 +28,6 @@ Studied Physics at the University of St. Andrews<br>[![Generic badge](https://im
 
 > Dissertation on using principles of game design to increase efficacy and engagement of educational resources
 
----
 
 ## Employment :man_technologist:
 
@@ -59,4 +57,3 @@ Studied Physics at the University of St. Andrews<br>[![Generic badge](https://im
 - Establishing reliable event tracking between Opera Mediaworks' ad serving platform and the clients’ provided tracking to provide accurate interaction metrics
 
 
----
