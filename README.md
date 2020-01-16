@@ -36,7 +36,6 @@ Studied Physics at the University of St. Andrews<br>[![Generic badge](https://im
 - Creating and updating Django based websites for customers in the automotive industry with a focus on integrating with a large set of vehicle data and dealing with financial details
 - Setting up and maintaining Digital Ocean hosted Ubuntu servers for nginx and gunicorn based Django applications with PostgreSQL back-ends
 - Using AWS (Lambda, API Gateway) to be used as an intermediary API to communicate with Quotevine’s core platform
-- Using React Native and Swift in conjunction with AWS (API Gateway & Cognito) for an authenticated data driven mobile app
 
 
 ### Collective UK<br>[![Generic badge](https://img.shields.io/badge/Rich_Media_Developer-October_2016_--_December_2017-blue)]()
