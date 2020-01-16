@@ -6,7 +6,7 @@
 > Web Developer
 
 
-[![Generic badge](https://img.shields.io/badge/health-100\%-success?logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAAXNSR0IArs4c6QAAAGNQTFRFAAAAIiA0RSg8Zjkxj1Y733Em2aBm7sOa+/I2meVQar4wN5RuS2kvUkskMjw5Pz90MGCCW27hY5v/X83ky9v8////m623hH6HaWpqWVZSdkKKrDIy2Vdj13u6j5dKim8w0iEht4I9IQAAACF0Uk5TAP//////////////////////////////////////////RvROpAAAAJVJREFUOI21k0sWgCAIRXURjmzA/leZgIAf4DSJGd7bQ8tK+VZ1VN4DrCtejytVH+d+57rE7WOGcl6afJQYxkkB4WgcAVoDtiYRDqcAFCASZEQs8CYzgc6ZC6BCYtTwnCunIb1HAziiY4UBNMRR9u/dL+O6MYew83sfJ5eMmM+MhHNGxu2VRtxud8Tv/8Ezco5Gzv+oF/biNirDJn7xAAAAAElFTkSuQmCC&style=plastic)]()
+[![Generic badge](https://img.shields.io/badge/health-100%25-success?logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAAXNSR0IArs4c6QAAAGNQTFRFAAAAIiA0RSg8Zjkxj1Y733Em2aBm7sOa+/I2meVQar4wN5RuS2kvUkskMjw5Pz90MGCCW27hY5v/X83ky9v8////m623hH6HaWpqWVZSdkKKrDIy2Vdj13u6j5dKim8w0iEht4I9IQAAACF0Uk5TAP//////////////////////////////////////////RvROpAAAAJVJREFUOI21k0sWgCAIRXURjmzA/leZgIAf4DSJGd7bQ8tK+VZ1VN4DrCtejytVH+d+57rE7WOGcl6afJQYxkkB4WgcAVoDtiYRDqcAFCASZEQs8CYzgc6ZC6BCYtTwnCunIb1HAziiY4UBNMRR9u/dL+O6MYew83sfJ5eMmM+MhHNGxu2VRtxud8Tv/8Ezco5Gzv+oF/biNirDJn7xAAAAAElFTkSuQmCC&style=plastic)]()
 [![Generic badge](https://img.shields.io/badge/coffee-brewed-success?logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAAXNSR0IArs4c6QAAAGNQTFRFAAAAIiA0RSg8Zjkxj1Y733Em2aBm7sOa+/I2meVQar4wN5RuS2kvUkskMjw5Pz90MGCCW27hY5v/X83ky9v8////m623hH6HaWpqWVZSdkKKrDIy2Vdj13u6j5dKim8wmID/HPhHTAAAACF0Uk5TAP//////////////////////////////////////////RvROpAAAALZJREFUOI2lktEOwyAIRcXunUD8/2+dgtq7imbZ7kOT5pwiYFP6NqXgy54Xf6xGQS8oUAmgSJjFfw9hQiwjoVLxy3NdJi0FxNjIKgjiSKAPnq0HbIUIaM59FmiFuCnZ44hUVGcJYua5BB9WBadpgtzRsY5Y0Br/lnQv+BxYQVDoh9feA8H4SZC7/aNAbX28GbMdRMYPQq3BDHfxMOqO2qx4nSDYNT7/K6vBHacw5M4Od2X7+R95AzCSE31qcGYZAAAAAElFTkSuQmCC&style=plastic)]()
 
 
@@ -14,7 +14,8 @@
 while(coffee.status === beverageStatus.BREWED) {
 
 ```
-[![Generic badge](https://img.shields.io/badge/energy-100\%-success?logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAAXNSR0IArs4c6QAAAGBQTFRFAAAAIiA0RSg8Zjkxj1Y733Em2aBm7sOa+/I2meVQar4wN5RuS2kvUkskMjw5Pz90MGCCW27hY5v/X83ky9v8////m623hH6HaWpqWVZSdkKKrDIy2Vdj13u6j5dKim8w+2O8zwAAACB0Uk5TAP////////////////////////////////////////+Smq12AAAAjUlEQVQ4ja2SMQLAIAgDcfMD/P+rVVBalcSlrBcSQEX2KqMOELxaYUHlAjNQhYKXI8GNmwBP4BtggxIbkAGGIL1WGERtRt4zmLZdkqQPTydZQk5evjx5zhWTI8SaJL5fc/eYlwmeHvMvjh5rtqN+8RHJb7EM8tvmDJjLpb8ZaPZESwDBPYC1Oye4JwDwAOOBCKyqghZVAAAAAElFTkSuQmCC&style=plastic)]()
+
+[![Generic badge](https://img.shields.io/badge/energy-100%25-success?logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAAXNSR0IArs4c6QAAAGBQTFRFAAAAIiA0RSg8Zjkxj1Y733Em2aBm7sOa+/I2meVQar4wN5RuS2kvUkskMjw5Pz90MGCCW27hY5v/X83ky9v8////m623hH6HaWpqWVZSdkKKrDIy2Vdj13u6j5dKim8w+2O8zwAAACB0Uk5TAP////////////////////////////////////////+Smq12AAAAjUlEQVQ4ja2SMQLAIAgDcfMD/P+rVVBalcSlrBcSQEX2KqMOELxaYUHlAjNQhYKXI8GNmwBP4BtggxIbkAGGIL1WGERtRt4zmLZdkqQPTydZQk5evjx5zhWTI8SaJL5fc/eYlwmeHvMvjh5rtqN+8RHJb7EM8tvmDJjLpb8ZaPZESwDBPYC1Oye4JwDwAOOBCKyqghZVAAAAAElFTkSuQmCC&style=plastic)]()
 
 ```javascript
 }
