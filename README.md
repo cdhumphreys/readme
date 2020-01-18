@@ -16,7 +16,7 @@ while(coffee.status === beverageStatus.BREWED) {
 
 ```
 
-[![Generic badge](https://img.shields.io/badge/energy-100%25-success?logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAAXNSR0IArs4c6QAAAGBQTFRFAAAAIiA0RSg8Zjkxj1Y733Em2aBm7sOa+/I2meVQar4wN5RuS2kvUkskMjw5Pz90MGCCW27hY5v/X83ky9v8////m623hH6HaWpqWVZSdkKKrDIy2Vdj13u6j5dKim8w+2O8zwAAACB0Uk5TAP////////////////////////////////////////+Smq12AAAAjUlEQVQ4ja2SMQLAIAgDcfMD/P+rVVBalcSlrBcSQEX2KqMOELxaYUHlAjNQhYKXI8GNmwBP4BtggxIbkAGGIL1WGERtRt4zmLZdkqQPTydZQk5evjx5zhWTI8SaJL5fc/eYlwmeHvMvjh5rtqN+8RHJb7EM8tvmDJjLpb8ZaPZESwDBPYC1Oye4JwDwAOOBCKyqghZVAAAAAElFTkSuQmCC&style=plastic)]()
+[![Generic badge](https://img.shields.io/badge/energy-100%25-success?logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAAXNSR0IArs4c6QAAAGBQTFRFAAAAIiA0RSg8Zjkxj1Y733Em2aBm7sOa+/I2meVQar4wN5RuS2kvUkskMjw5Pz90MGCCW27hY5v/X83ky9v8////m623hH6HaWpqWVZSdkKKrDIy2Vdj13u6j5dKim8w+2O8zwAAACB0Uk5TAP////////////////////////////////////////+Smq12AAAAe0lEQVQ4jbWSyw3AMAhDwy0LsP+q5SekStip1NbX5zgmYa3PJSnCtwsaihODQVVs8IDgwPCEb8UNsiAL2DUBDQiDTK/VvHU39KlgarPMN1VR3FTm/Knou0nhOhy55E+wZSA/kQHofSqAnrcAzr0BW3dvwLAHcL5o/L+6AFRgBhnX2xQXAAAAAElFTkSuQmCC&style=plastic)]()
 
 ```javascript
 }
